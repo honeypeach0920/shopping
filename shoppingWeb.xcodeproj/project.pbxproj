@@ -14,6 +14,7 @@
 		04E7D63020FCED7A00A343CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E7D62E20FCED7A00A343CD /* LaunchScreen.storyboard */; };
 		04E7D63B20FCED7B00A343CD /* shoppingWebTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E7D63A20FCED7B00A343CD /* shoppingWebTests.swift */; };
 		04E7D64620FCED7B00A343CD /* shoppingWebUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E7D64520FCED7B00A343CD /* shoppingWebUITests.swift */; };
+		04E7D65620FE171800A343CD /* shoppingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E7D65520FE171800A343CD /* shoppingTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		04E7D64120FCED7B00A343CD /* shoppingWebUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shoppingWebUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E7D64520FCED7B00A343CD /* shoppingWebUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shoppingWebUITests.swift; sourceTree = "<group>"; };
 		04E7D64720FCED7B00A343CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04E7D65520FE171800A343CD /* shoppingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shoppingTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				04E7D62520FCED7300A343CD /* AppDelegate.swift */,
 				04E7D62720FCED7300A343CD /* ViewController.swift */,
 				04E7D62920FCED7300A343CD /* Main.storyboard */,
+				04E7D65520FE171800A343CD /* shoppingTableViewController.swift */,
 				04E7D62C20FCED7A00A343CD /* Assets.xcassets */,
 				04E7D62E20FCED7A00A343CD /* LaunchScreen.storyboard */,
 				04E7D63120FCED7B00A343CD /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E7D62820FCED7300A343CD /* ViewController.swift in Sources */,
+				04E7D65620FE171800A343CD /* shoppingTableViewController.swift in Sources */,
 				04E7D62620FCED7300A343CD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
